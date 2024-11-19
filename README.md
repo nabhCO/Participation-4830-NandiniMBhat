@@ -7,4 +7,4 @@ In the Piazza comments that mention code, I have not included a screenshot of th
 *Note: For context in some of the screenshots I have included comments from my classmates. To maintain privacy, I have greyed out their names and pictures. My own contributions in these cases are highlighted in blue.*
 
 ### Self Assessment
-Throughout this course, I have been enjoyed taking part in discussions with my classmates- they have helped me numerous times, and I have tried my best to answer their questions and help out where I can with clarifications and code. Overall, I have been very active with my participation, and have definitely gained a lot from it.
+Throughout this course, I have enjoyed taking part in discussions with my classmates- they have helped me numerous times, and I have tried my best to answer their questions and help out where I can with clarifications and code. Overall, I have been very active with my participation, and have definitely gained a lot from it.
